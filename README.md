@@ -24,7 +24,7 @@ Sou estudante e entusiasta da área de dados, buscando oportunidades para aplica
 ### 📂 Projetos em destaque
 
 🔹 **projeto-de-coleta-e-analize-de-dado**  
-Projeto com foco em manipulação e análise de dados utilizando SQL.
+Projeto com foco em manipulação e análise de dados utilizando PYTHON.
 
 👉 https://github.com/luiso18/projeto-de-coleta-e-analize-de-dados
 
