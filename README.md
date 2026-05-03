@@ -8,7 +8,7 @@ Estou em busca de oportunidades na área de dados para aplicar meus conhecimento
 
 ### Detalhes
 
-![Stats](https://github-readme-stats.vercel.app/api?username=luiso18)
+[![Stats](https://github-readme-stats.vercel.app/api?username=luiso18&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Projetos
 
