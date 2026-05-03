@@ -1,14 +1,14 @@
 ## Olá 👋
 
 
-#####sobre mim
+##### sobre mim
 Estou em busca de oportunidades na área de dados para aplicar meus conhecimentos, gerar valor através da análise de dados e continuar evoluindo profissionalmente.
 
 
 
 ### Detalhes
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luiso18&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![Stats](https://github-readme-stats.vercel.app/api?username=luiso18)
 
 ### Projetos
 
